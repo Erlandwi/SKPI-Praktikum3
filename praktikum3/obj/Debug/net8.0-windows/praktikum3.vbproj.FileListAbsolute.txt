@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\praktikum3\praktikum3\bin\Debug\net8.0-windows\praktikum3.exe
+C:\Users\user\source\repos\praktikum3\praktikum3\bin\Debug\net8.0-windows\praktikum3.deps.json
+C:\Users\user\source\repos\praktikum3\praktikum3\bin\Debug\net8.0-windows\praktikum3.runtimeconfig.json
+C:\Users\user\source\repos\praktikum3\praktikum3\bin\Debug\net8.0-windows\praktikum3.dll
+C:\Users\user\source\repos\praktikum3\praktikum3\bin\Debug\net8.0-windows\praktikum3.pdb
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\praktikum3.Form1.resources
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\praktikum3.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\praktikum3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\praktikum3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\praktikum3.AssemblyInfo.vb
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\praktikum3.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\praktikum3.dll
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\refint\praktikum3.dll
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\praktikum3.pdb
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\praktikum3.genruntimeconfig.cache
+C:\Users\user\source\repos\praktikum3\praktikum3\obj\Debug\net8.0-windows\ref\praktikum3.dll
